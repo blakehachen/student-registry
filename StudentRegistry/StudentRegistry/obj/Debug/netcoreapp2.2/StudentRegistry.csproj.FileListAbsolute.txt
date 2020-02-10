@@ -1,0 +1,11 @@
+C:\Users\blakehachen\source\repos\StudentRegistry\StudentRegistry\bin\Debug\netcoreapp2.2\StudentRegistry.deps.json
+C:\Users\blakehachen\source\repos\StudentRegistry\StudentRegistry\bin\Debug\netcoreapp2.2\StudentRegistry.runtimeconfig.json
+C:\Users\blakehachen\source\repos\StudentRegistry\StudentRegistry\bin\Debug\netcoreapp2.2\StudentRegistry.runtimeconfig.dev.json
+C:\Users\blakehachen\source\repos\StudentRegistry\StudentRegistry\bin\Debug\netcoreapp2.2\StudentRegistry.dll
+C:\Users\blakehachen\source\repos\StudentRegistry\StudentRegistry\bin\Debug\netcoreapp2.2\StudentRegistry.pdb
+C:\Users\blakehachen\source\repos\StudentRegistry\StudentRegistry\obj\Debug\netcoreapp2.2\StudentRegistry.csprojAssemblyReference.cache
+C:\Users\blakehachen\source\repos\StudentRegistry\StudentRegistry\obj\Debug\netcoreapp2.2\StudentRegistry.csproj.CoreCompileInputs.cache
+C:\Users\blakehachen\source\repos\StudentRegistry\StudentRegistry\obj\Debug\netcoreapp2.2\StudentRegistry.AssemblyInfoInputs.cache
+C:\Users\blakehachen\source\repos\StudentRegistry\StudentRegistry\obj\Debug\netcoreapp2.2\StudentRegistry.AssemblyInfo.cs
+C:\Users\blakehachen\source\repos\StudentRegistry\StudentRegistry\obj\Debug\netcoreapp2.2\StudentRegistry.dll
+C:\Users\blakehachen\source\repos\StudentRegistry\StudentRegistry\obj\Debug\netcoreapp2.2\StudentRegistry.pdb
